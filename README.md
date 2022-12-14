@@ -1,7 +1,7 @@
 ## TAILWEBS Backend Assignment
 ## Technology: Use any. Database: MYSQL / MongoDB / (Use any)
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Below are the task requirements>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+## Below are the task requirements
 
 ## Task
 The task is very simple. You just need to think twice and follow the below instruction
